@@ -17,10 +17,4 @@ record Add(String name, int money, int allMoney, String address, int workers)
     {
         return "Name: "+ name +"\nOperated money: "+ money +"$\nAll invested money: "+ allMoney +"$\nAddress: "+ address +"\nWorkers: "+ workers;
     }
-    /*
-    адреса
-    сума коштів, якою оперує компанія
-    кількість інвестованих коштів
-
-     */
 }
